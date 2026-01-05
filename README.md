@@ -6,3 +6,4 @@ lets explore new things in cs worlda
 let's use this repo to make a clone on our personal computer 
 <br>
 and create a good enviroment for out github using VS
+okay bye
